@@ -1,6 +1,7 @@
 # Chrome Extension: Browser Sketch
 
 Browser Sketch is a Chrome extension that allows users to draw and sketch directly on the browser window. It provides a simple and intuitive interface for creating sketches, annotations, or highlighting important elements on web pages.
+
 **Note**: Currently it is in development phase. You can use simple pencil sketch to draw on the window.
 
 ## Features
